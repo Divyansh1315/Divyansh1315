@@ -1,6 +1,6 @@
 <h1 >Hi , I'm Divyansh Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+profile.;You+can+also+call+me+DV.;I'm+a+Web+tech+enthusiast.;Web+Development+is+my+passion.)](https://git.io/typing-svg) 
+ ![](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+profile.;You+can+also+call+me+DV.;I'm+a+Web+tech+enthusiast.;Web+Development+is+my+passion.) 
  
  
 
