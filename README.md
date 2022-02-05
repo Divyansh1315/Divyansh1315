@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Front-end Technologies
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Front-End Projects.
+- 💥 I'm interested in Open-Source Contributions
 - 📫 How to reach me: divyanshsingh372@gmail.com
 - ⚡ Fun fact: I love to interact with people ✌
 
