@@ -43,13 +43,12 @@ I work with **Excel, SQL, and Power BI** to clean, analyze, and visualize data.
 ![Power Query](https://img.shields.io/badge/Power_Query-008272?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-5E5E5E?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Divyansh's GitHub Stats
+<!--## Divyansh's GitHub Stats
 
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh1315&theme=radical" alt="Divyansh1315" height="192px" width="400px" />
-  
 </p>
-
+-->
 
 
 <!-- 
