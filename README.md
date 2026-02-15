@@ -1,6 +1,6 @@
 <h1 >Hi, I'm Divyansh Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+profile.;You+can+also+call+me+DV.;I'm+a+Data+Analyst.;Web+Development+is+my+passion.) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+profile.;You+can+also+call+me+DV.;I'm+a+Data+Analyst.;Data+driven+decision+is+my+forte.) 
  
 I’m a data analyst who enjoys turning raw data into meaningful insights that support better decision-making.  
 I work with **Excel, SQL, and Power BI** to clean, analyze, and visualize data.
